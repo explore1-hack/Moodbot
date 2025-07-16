@@ -12,7 +12,6 @@ MoodBot is a fun and intelligent chatbot built with **LLaMA 3 (via Together AI)*
 
 ## 📸 Demo
 
-![MoodBot Screenshot](assets/moodbot.png)
+![MoodBot Screenshot](moodbot.png)
 
-## 🗂 Folder Structure
 

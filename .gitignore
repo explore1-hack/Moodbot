@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Environment
+.env
+.env.*
+
+# Streamlit cache
+.streamlit/
+.cache/
+*.db
+
+# VSCode / JetBrains / Other IDEs
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+
+# Data / History (if saving chat memory)
+memory.json
